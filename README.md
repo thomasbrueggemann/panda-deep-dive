@@ -1,5 +1,7 @@
 # Panda Deep Dive
 
+![Panda Deep Dive — a math sea adventure](readme-hero.png)
+
 An adventure game for kids to practise math. Players guide a panda through the
 adventure by solving small equations to set the flight and dive levels —
 getting the math right steers how high it flies and how deep it dives.
