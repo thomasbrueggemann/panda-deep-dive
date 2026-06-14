@@ -1,6 +1,8 @@
 # Panda Deep Dive
 
-An interactive, single-page web app — a deep dive into giant pandas.
+An adventure game for kids to practise math. Players guide a panda through the
+adventure by solving small equations to set the flight and dive levels —
+getting the math right steers how high it flies and how deep it dives.
 
 The entire app ships as one self-contained `index.html`: a React application
 bundled inline (markup, styles, and JavaScript all in one file), with a small
